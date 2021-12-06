@@ -32,11 +32,10 @@ As a user,
 I want to be able to create and have access to a social and/or study meetup post.
 So that I have quick access to socialize with fellow carleton attendees.
 ```
-## Demo
-
 # Deployed Version
 Currently working on project, to see a deployed version click link--> https://carleton-meetups-app.herokuapp.com/
 
+## Demo
 
 <br>
 
