@@ -36,7 +36,9 @@ So that I have quick access to socialize with fellow carleton attendees.
 Currently working on project, to see a deployed version click link--> https://carleton-meetups-app.herokuapp.com/
 
 ## Demo
-
+<p align="center">
+    <img src="./img/cmpts.gif" width="500" height="500">
+</p>
 <br>
 
 ## Installing and running the code on computer
