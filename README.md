@@ -37,7 +37,7 @@ Currently working on project, to see a deployed version click link--> https://ca
 
 ## Demo
 <p align="center">
-    <img src="./img/cmpts.gif" width="500" height="500">
+    <img src="./img/cmtps.gif" width="500" height="500">
 </p>
 <br>
 
